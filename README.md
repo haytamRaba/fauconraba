@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ok**
 
-- 🌱 I’m currently learning **c advance,**
+- 🌱 I’m currently learning **c++ ,php,html,css,js...**
 
 - ⚡ Fun fact **not funny**
 
