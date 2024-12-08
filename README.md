@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on **</>**
 
 - 🌱 I’m currently learning **c++ ,php,html,css,js...**
+- 💞️ I’m looking to collaborate on anything!😅
+- 📫 How to reach me ⬇️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
