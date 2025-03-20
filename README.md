@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **</>**
 
-- 🌱 I’m currently learning **c++ ,php,html,css,js...**
+- 🌱 I’m currently learning **java,python...**
 - 💞️ I’m looking to collaborate on anything!😅
 - 📫 How to reach me ⬇️
 
