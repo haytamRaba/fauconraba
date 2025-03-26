@@ -5,6 +5,10 @@ I'm a third-year Software Engineering student on an exciting journey to become a
 -Mastering Spring Boot <br>
 -Exploring Full-Stack Development <br>
 -Cloud Computing Fundamentals
+#🌟 Personal Interests
+ Chess ♟️ <br>
+ Technology Innovation <br>
+ Continuous Learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haytam_raba) <br>
