@@ -3,8 +3,8 @@ I'm a third-year Software Engineering student on an exciting <br>journey to beco
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haytam_raba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytam-raba-798663261/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haytam_raba) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytam-raba-798663261/)<br>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haytamraba11@gmail.com) 
 
 # 💻 Tech Stack:
