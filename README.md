@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Software Engineering student on an exciting <br>journey to become a full-stack developer with a passion <br>for emerging technologies.
+I'm a third-year Software Engineering student on an exciting journey to become a full-stack developer with a passion for emerging technologies.
 
 
 ## 🌐 Socials:
