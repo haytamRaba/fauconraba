@@ -5,7 +5,7 @@ I'm a third-year Software Engineering student on an exciting journey to become a
 -Mastering Spring Boot <br>
 -Exploring Full-Stack Development <br>
 -Cloud Computing Fundamentals
-#🌟 Personal Interests
+# 🌟 Personal Interests
  Chess ♟️ <br>
  Technology Innovation <br>
  Continuous Learning
