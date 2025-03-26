@@ -1,13 +1,13 @@
-# 👋 Hey there! I'm Haytam Raba
+# 👋Hey there! I'm <strong>Haytam Raba<strong>
 
-# 💫 About Me:
+## 💫 About Me:
 I'm a third-year Software Engineering student on an exciting journey to become a full-stack developer with a passion for emerging technologies.
 
-# 🌱 Current Learning Goals
+## 🌱 Current Learning Goals
 -Mastering Spring Boot <br>
 -Exploring Full-Stack Development <br>
 -Cloud Computing Fundamentals
-# 🌟 Personal Interests
+## 🌟 Personal Interests
  <strong>Chess ♟️ <br>
  Technology Innovation <br>
  Continuous Learning <strong>
