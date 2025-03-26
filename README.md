@@ -2,12 +2,9 @@
 I'm a third-year Software Engineering student on an exciting journey to become a full-stack developer with a passion for emerging technologies.
 
 # 🌱 Current Learning Goals
-
-Mastering Spring Boot
-Advancing Python Skills
-Exploring Full-Stack Development
-Cloud Computing Fundamentals
-
+-Mastering Spring Boot <br>
+-Exploring Full-Stack Development <br>
+-Cloud Computing Fundamentals
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haytam_raba) <br>
