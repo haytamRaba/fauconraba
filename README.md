@@ -6,11 +6,11 @@ I'm a third-year Software Engineering student on an exciting journey to become a
 -Exploring Full-Stack Development <br>
 -Cloud Computing Fundamentals
 # 🌟 Personal Interests
- Chess ♟️ <br>
+ <strong>Chess <strong>♟️ <br>
  Technology Innovation <br>
  Continuous Learning
 
-## 🌐 Socials:
+## 🔗 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haytam_raba) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haytam-raba-798663261/)<br>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haytamraba11@gmail.com) 
